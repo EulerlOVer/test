@@ -1,7 +1,5 @@
 # KRNL Executor 2025 - Keyless roblox executor for your needs
 
-![krnl-1](https://github.com/user-attachments/assets/579787f8-3390-47e3-9f31-db9eb1d37014)
-
 
 KRNL Executor is one of the most powerful and stable **Roblox script executors** available. It offers **seamless execution of complex scripts**. Whether you're looking to automate tasks, unlock new features, or customize your gameplay.
 
